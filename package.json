@@ -1,14 +1,14 @@
 {
-  "name": "dataestructure-1",
+  "name": "dataestructure",
   "version": "1.0.0",
   "description": "Projeto de teste para validar o processo atualização do GIT.",
-  "main": "jest.config.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/M4rit8/dataEstructure.git"
+    "url": "git+https://github.com/M4rit8/dataestructure.git"
   },
   "keywords": [],
   "author": "",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/M4rit8/dataEstructure/issues"
   },
-  "homepage": "https://github.com/M4rit8/dataEstructure#readme"
+  "homepage": "https://github.com/M4rit8/dataEstructure#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }

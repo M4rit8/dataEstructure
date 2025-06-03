@@ -1,6 +1,6 @@
-# Nome do Projeto
+# dataEstructure
 
-Projeto de teste para validar o processo atualização do GIT.
+Projeto de estudo sobre estruturas de dados e algoritmos em JavaScript. Basado no livro "Estruturas de Dados e Algoritmos com JavaScript" de Loiane Groner.
 
 ## Status
 Em desenvolvimento
@@ -33,5 +33,3 @@ MIT
 
 ## Contato
 Seu Nome - mariomoraes@hotmail.com
-
-# dataEstructure
