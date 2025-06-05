@@ -4,6 +4,8 @@ Autor: Loiane Groner
 Data: 2023
 Descrição: Este código demonstra o uso de arrays em JavaScript, incluindo iteração, acesso a elementos e manipulação de dados.
 Licença: MIT License
+
+Referência: atualização do livro "Estrutura de Dados e Algoritmos com JavaScript" de Loiane Groner
 */
 
 function changingArray(){
