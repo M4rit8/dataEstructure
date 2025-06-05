@@ -4,7 +4,7 @@
   "description": "Projeto de teste para validar o processo atualização do GIT.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "npx jest"
   },
   "repository": {
     "type": "git",
